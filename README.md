@@ -1,7 +1,5 @@
 ### Here's a little about me 👋
-
-
-Here are some ideas to get you started:
+I'm a software developer, mainly focusing on the front-end side of things. I have a passion for the cryptocurrency industry and all open sourced technologies within.
 
 - 🔭 I’m currently working on 2Tap.gg & Human Rights First projects.
 - 🌱 I’m currently learning Web3 technologies such as web3.js
